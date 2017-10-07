@@ -1,6 +1,6 @@
 # masscan-parser
 
-Parser result masscan scanner -oX result.xml
+Save masscan XML result to result.xml and run my script.
 
 Output : 
 IP:PORT

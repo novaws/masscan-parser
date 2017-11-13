@@ -1,3 +1,4 @@
+#!/bin/python
 import xml.etree.ElementTree as ET
 
 masscan_file = 'result.xml'
